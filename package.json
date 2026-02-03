@@ -1,0 +1,15 @@
+{
+  "name": "den-of-destruction",
+  "version": "1.0.0",
+  "description": "Den of Destruction - A metal blog rebuilt as a static site",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "dev": "eleventy --serve --watch"
+  },
+  "keywords": ["metal", "blog", "static-site"],
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

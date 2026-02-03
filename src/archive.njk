@@ -1,0 +1,39 @@
+---
+layout: base.njk
+title: Archive
+---
+<section class="archive">
+  <h2 class="section-title">Archive</h2>
+  <p class="archive__intro">All posts from the Den, past and present.</p>
+
+  {% set postsByYear = collections.posts | groupby("date") %}
+
+  {% set currentYear = "" %}
+  {% for post in collections.posts %}
+    {% set postYear = post.date | dateDisplay | truncate(4, true, "") %}
+    {% if postYear != currentYear %}
+      {% if currentYear != "" %}</ul>{% endif %}
+      {% set currentYear = postYear %}
+      <h3 class="archive__year">{{ post.date.getFullYear() }}</h3>
+      <ul class="archive__list">
+    {% endif %}
+    <li class="archive__item">
+      <time datetime="{{ post.date | dateISO }}">{{ post.date | dateDisplay }}</time>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+      {% if post.data.tags %}
+        <span class="archive__tags">
+          {% for tag in post.data.tags %}
+            {% if tag != "post" %}
+            <span class="tag tag--small">{{ tag }}</span>
+            {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+    </li>
+  {% endfor %}
+  {% if collections.posts.length > 0 %}</ul>{% endif %}
+
+  {% if collections.posts.length == 0 %}
+  <p class="archive__empty">No posts yet. Content from the original blog will be added here.</p>
+  {% endif %}
+</section>

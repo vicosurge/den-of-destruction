@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Tags
+permalink: /tags/index.html
+---
+<section class="tags-page">
+  <h2 class="section-title">Browse by Tag</h2>
+
+  {% if collections.tagList.length > 0 %}
+  <ul class="tags-page__list">
+    {% for tag in collections.tagList %}
+    <li class="tags-page__item">
+      <a href="/tags/{{ tag | slugify }}/">
+        {{ tag }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="archive__empty">No tags yet.</p>
+  {% endif %}
+</section>
