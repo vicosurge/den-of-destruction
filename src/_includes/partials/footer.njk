@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy">&copy; {{ site.startYear }}&ndash;{% year %} {{ site.title }}. All rights reserved.</p>
+      <p class="site-footer__tagline">Forged in metal.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+// Mobile nav toggle
+const toggle = document.querySelector('.site-nav__toggle');
+const menu = document.querySelector('.site-nav__list');
+if (toggle && menu) {
+  toggle.addEventListener('click', () => {
+    const expanded = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', !expanded);
+    menu.classList.toggle('site-nav__list--open');
+  });
+}
+</script>

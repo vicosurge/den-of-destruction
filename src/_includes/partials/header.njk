@@ -1,0 +1,25 @@
+<header class="site-header">
+  <div class="container">
+    <div class="site-header__inner">
+      <a href="/" class="site-logo">
+        <h1 class="site-logo__text">Den of Destruction</h1>
+      </a>
+      <p class="site-tagline">{{ site.description }}</p>
+      <nav class="site-nav" aria-label="Main navigation">
+        <button class="site-nav__toggle" aria-expanded="false" aria-controls="nav-menu">
+          <span class="sr-only">Menu</span>
+          <span class="hamburger"></span>
+        </button>
+        <ul class="site-nav__list" id="nav-menu">
+          {% for item in navigation %}
+          <li class="site-nav__item">
+            <a href="{{ item.url }}" class="site-nav__link {% if page.url == item.url %}site-nav__link--active{% endif %}">
+              {{ item.label }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

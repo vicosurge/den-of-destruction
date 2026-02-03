@@ -1,0 +1,41 @@
+---
+layout: base.njk
+---
+<article class="post post--full">
+  <header class="post__header">
+    <h1 class="post__title">{{ title }}</h1>
+    <div class="post__meta">
+      <time datetime="{{ date | dateISO }}">{{ date | dateDisplay }}</time>
+      {% if tags %}
+      <div class="post__tags">
+        {% for tag in tags %}
+          {% if tag != "post" %}
+          <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if image %}
+  <div class="post__image">
+    <img src="{{ image }}" alt="{{ title }}" loading="lazy">
+  </div>
+  {% endif %}
+
+  <div class="post__content">
+    {{ content | safe }}
+  </div>
+
+  <nav class="post__nav">
+    {% set previousPost = collections.posts | reverse %}
+    {% set nextPost = collections.posts %}
+    <div class="post__nav-links">
+      {% if page.url %}
+        <a href="/" class="post__nav-link">&larr; Back to Home</a>
+      {% endif %}
+      <a href="/archive/" class="post__nav-link">View Archive &rarr;</a>
+    </div>
+  </nav>
+</article>
