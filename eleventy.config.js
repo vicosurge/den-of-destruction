@@ -1,4 +1,9 @@
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+
 module.exports = function (eleventyConfig) {
+  // Rewrite all absolute URLs to include the path prefix (needed for GitHub Pages)
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/images");
@@ -51,6 +56,7 @@ module.exports = function (eleventyConfig) {
       includes: "_includes",
       data: "_data",
     },
+    pathPrefix: "/den-of-destruction/",
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     templateFormats: ["md", "njk", "html"],
