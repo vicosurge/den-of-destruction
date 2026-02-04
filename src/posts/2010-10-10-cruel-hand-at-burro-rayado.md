@@ -5,7 +5,7 @@ tags:
   - shows
   - live reviews
 excerpt: "Review of Cruel Hand at the Burro Rayado bar in Tijuana"
-image: "IMG00076-20101109-2330.jpg"
+image: "/images/IMG00076-20101109-2330.jpg"
 ---
 
 Well, that was quite an adventure yesterday.
