@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Den of Destruction"
-date: 2010-10-08
+date: 2010-11-08
 tags:
   - announcements
 excerpt: "Kicking off the Den of Destruction blog -- a new spot for metal show coverage, reviews, and the underground scene."
