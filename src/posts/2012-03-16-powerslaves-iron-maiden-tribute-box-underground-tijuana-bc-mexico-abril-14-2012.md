@@ -7,7 +7,7 @@ categories:
   - Baja California
   - Box Underground
   - Komplot
-  - México
+  - Mexico
   - Power Slaves
   - Tijuana
   - Tribute
@@ -16,7 +16,7 @@ tags:
   - Baja California
   - Box Underground
   - Komplot
-  - México
+  - Mexico
   - Power Slaves
   - Tijuana
   - Tribute
