@@ -1,0 +1,12 @@
+{
+  "title": "Den of Destruction",
+  "remainingCapacity": "19929",
+  "totalItems": "71",
+  "totalItemsAccuracy": "EXACT",
+  "timeInfo": {
+    "startMs": "1137333165000",
+    "endMs": "1332294924000",
+    "creationMs": "1289234207000",
+    "newestOperationTimeMs": "1332294924000"
+  }
+}
