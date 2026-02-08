@@ -27,7 +27,7 @@ tags:
   - Vachteria
 slug: "noches-de-heavy-metal-el-punto-ensenada-bc-mx-02192011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/noches-de-heavy-metal-el-punto-ensenada.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh519C7fn4_Lx4yyrbE_XISDlOyiEH3gZmT5GPGERA_QjKcH6eEja33t1IC8uf1pjMZo5ifHPyZwAaeox6K8ndTWfnVvG5Z3CELaycsrjjLEZUk9wBGeIjxZqJD6MdDrIWbMrTUCWpYLWU/s72-c/176534_10150100323986248_811201247_6134497_3738854_o.jpg"
+thumbnail: "/images/176534_10150100323986248_811201247_6134497_3738.jpg"
 ---
 
 ![Image](/images/176534_10150100323986248_811201247_6134497_3738.jpg)

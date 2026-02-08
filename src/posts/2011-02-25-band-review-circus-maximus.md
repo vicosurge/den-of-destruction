@@ -13,7 +13,7 @@ tags:
   - Review
 slug: "band-review-circus-maximus"
 original_url: "https://denofdestruction.blogspot.com/2011/02/band-review-circus-maximus.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKhTrHJ1vdyY0iDV2Va7KCH9Rga6M53UA_XvKRu0LiDNCBMnv8Nsekod5ouofwB9aHlMxQCfEuk7DbTBrMDH6H0CqGYNKSa-3m9PXgWod-eiaE02XPB35kUiKFbu7bm0iXlsLVsXmAERE/s72-c/Circus-Maximus-Roma.jpg"
+thumbnail: "/images/Circus-Maximus-Roma.jpg"
 ---
 
 I am not exactly sure how to describe this but a band whose name is Circus Maximus makes me think of something really fucking bloody and deadly like a true Circus Maximus, fucking Nascar of the Roman Era.

@@ -21,7 +21,7 @@ tags:
   - Review
 slug: "gig-review-megafest-el-divan-de-alicia"
 original_url: "https://denofdestruction.blogspot.com/2011/03/gig-review-megafest-el-divan-de-alicia.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgboaBHt8PeyDn8GxsB_GAX2cz5QLCpLic1vKQN269kWD9XYhhLKkM7UktGo_FIX4Gp_8DInERoR0Mk9ckb_X-MJn017e4uEWTxd3TJzKoPi8ANXfiVpsZ_6y48BlEwc3gt27P9snA3nWM/s72-c/train.jpg"
+thumbnail: "/images/train.jpg"
 ---
 
 Holy fucking tits now that was a good gig and when I say good, son, I mean it.  

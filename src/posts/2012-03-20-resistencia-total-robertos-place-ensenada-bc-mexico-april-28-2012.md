@@ -29,7 +29,7 @@ tags:
   - The Decidiass
 slug: "resistencia-total-robertos-place-ensenada-bc-mexico-april-28-2012"
 original_url: "https://denofdestruction.blogspot.com/2012/03/resistencia-total-robertos-place.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovtPdyjUIje-xmbz1Xb36DB05_I9pQPxYfqF9h3OtbxjQpU0DGR__QGGmws_gKk6v0_P0tXocIKNXAkfeggrcECZPQOx9RUzBkDAjzZxTgmISMGSMG2plOxH5Gy9IIzK7m1oCtfY0fQU/s72-c/547857_214596715314722_100002931847239_407104_1392525905_n.jpg"
+thumbnail: "/images/547857_214596715314722_100002931847239_407104_1.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovtPdyjUIje-xmbz1Xb36DB05_I9pQPxYfqF9h3OtbxjQpU0DGR__QGGmws_gKk6v0_P0tXocIKNXAkfeggrcECZPQOx9RUzBkDAjzZxTgmISMGSMG2plOxH5Gy9IIzK7m1oCtfY0fQU/s640/547857_214596715314722_100002931847239_407104_1392525905_n.jpg})
+![Image](/images/547857_214596715314722_100002931847239_407104_1.jpg)

@@ -19,7 +19,7 @@ tags:
   - Pomona
 slug: "eluveitie-and-3-inches-of-blood-glass-house-pomona-ca-021811"
 original_url: "https://denofdestruction.blogspot.com/2011/02/eluveitie-and-3-inches-of-blood-glass.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ-faxPhz-MeqKgaVe15Aq5yPYvOj-Ps16y4ifryAEbS8neDZKPZBG4RWh3QHjsHawhm0odFyaXQc1eZLbce-KGGuAv3rboG2wZDLg2BBttzIPM9Jxk5begHh_p3e2im7AshILeSjajlQ/s72-c/172922_1601452559588_1334291315_31375198_76647_o.jpg"
+thumbnail: "/images/172922_1601452559588_1334291315_31375198_76647_.jpg"
 ---
 
 Well it's been a while since I did anything in this blog but on my defense there hasn't been anything cool to talk about until just recently.

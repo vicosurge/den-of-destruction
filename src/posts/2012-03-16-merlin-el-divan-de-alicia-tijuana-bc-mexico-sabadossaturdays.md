@@ -17,7 +17,7 @@ tags:
   - Tijuana
 slug: "merlin-el-divan-de-alicia-tijuana-bc-mexico-sabadossaturdays"
 original_url: "https://denofdestruction.blogspot.com/2012/03/merlin-el-divan-de-alicia-tijuana-bc.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAooKbjzDE4JEKD0Hd2EkiYMuZ-VogYN8UQ_FS_u-aFn4XogxIHCws9Tb8tkmmXJeKgezeUdMurYRKpSvrgFGMYEtpNAMCO8UxUUQv0ExBLnDDMRsxXlUrYZ2x8xLGPl_MiK521AjwXQo/s72-c/462192_342836252419471_100000792983098_902248_521704005_o.jpg"
+thumbnail: "/images/462192_342836252419471_100000792983098_902248_5.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAooKbjzDE4JEKD0Hd2EkiYMuZ-VogYN8UQ_FS_u-aFn4XogxIHCws9Tb8tkmmXJeKgezeUdMurYRKpSvrgFGMYEtpNAMCO8UxUUQv0ExBLnDDMRsxXlUrYZ2x8xLGPl_MiK521AjwXQo/s640/462192_342836252419471_100000792983098_902248_521704005_o.jpg})
+![Image](/images/462192_342836252419471_100000792983098_902248_5.jpg)

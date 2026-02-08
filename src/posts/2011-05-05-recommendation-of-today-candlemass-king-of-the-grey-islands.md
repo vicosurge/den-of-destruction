@@ -15,10 +15,10 @@ tags:
   - Review
 slug: "recommendation-of-today-candlemass-king-of-the-grey-islands"
 original_url: "https://denofdestruction.blogspot.com/2011/05/recommendation-of-today-candlemass-king.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiihl3iwku5qNPkMMZ4uE2TQTVIuQJQvH4YxngdElNzzIFbkgN8XPJhz4ewuUbxdz1qUwMiXy8sDqsFKjHC-_PV_tQH3eKgcgaXE-055dhYmjufuaKi-t9tO6pNLiLJ11bJHKuR8RoRGcI/s72-c/Kotgi.jpg"
+thumbnail: "/images/Kotgi.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiihl3iwku5qNPkMMZ4uE2TQTVIuQJQvH4YxngdElNzzIFbkgN8XPJhz4ewuUbxdz1qUwMiXy8sDqsFKjHC-_PV_tQH3eKgcgaXE-055dhYmjufuaKi-t9tO6pNLiLJ11bJHKuR8RoRGcI/s320/Kotgi.jpg})
+![Image](/images/Kotgi.jpg)
 
 All songs written by [Leif Edling](http://en.wikipedia.org/wiki/Leif_Edling)
 

@@ -21,7 +21,7 @@ tags:
   - Veil of Maya
 slug: "welcome-to-hell-tour-soma-sd-ca-03132011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/welcome-to-hell-tour-soma-sd-ca.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FLXcQdhmGO6-CKNnj3yQOekvNpbzQC4hMhukRwiKi80NYn5aDcBup9VgSzYyxlZ7sGAgGcmJw4D_CrMfEjvyyimDg85sbrkSTNEs05O1MxbYselHbVvk-bTFW54ZaQiM5HesTnpOIoQ/s72-c/WHITECHAPEL.jpg"
+thumbnail: "/images/WHITECHAPEL.jpg"
 ---
 
 ![Image](/images/WHITECHAPEL.jpg)

@@ -23,7 +23,7 @@ tags:
   - Vachteria
 slug: "exumer-autographs-and-concert-in-tj"
 original_url: "https://denofdestruction.blogspot.com/2010/12/exumer-autographs-and-concert-in-tj.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaS4aB0KNtk_ugZ6QqdZDcPVv7Xv80LA40YLDjvBKj0pqn7N01F12uzgJ6RHNLyl7EIP4CAMwXmns79XLmDja8QkOOLkpqbsv7q96ZuV_ut2y_muIHAf_QLl8d2DWMBpxs1C-unWDLVPk/s72-c/Exumer.bmp"
+thumbnail: "/images/Exumer.bmp"
 ---
 
 Well it's been a while since I've posted and that's because \*drum roll\*

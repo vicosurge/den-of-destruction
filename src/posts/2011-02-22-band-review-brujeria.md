@@ -9,7 +9,7 @@ tags:
   - Brujeria
 slug: "band-review-brujeria"
 original_url: "https://denofdestruction.blogspot.com/2011/02/band-review-brujeria.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKGjnVOfw0mKkf7JQ-a7PiFaFcfxO5AZv8PwkkAUx426SOucROTSlw8x1u-QFkBXvUhh-yDqDo9o1W1O7hNs7Rd8gow2xf9BL3HZ0ja2r2fhSnu1nb_FQwMVpXlP4tCEgVZoxkMhbhrbQ/s72-c/juanbrujo.jpg"
+thumbnail: "/images/juanbrujo.jpg"
 ---
 
 First of the word Brujeria translates directly to Witchcraft; you know this shit gets serious there and that's just the beginning.

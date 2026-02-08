@@ -13,7 +13,7 @@ tags:
   - Satanico Dramatico
 slug: "band-dia-de-los-muertos-ddlm"
 original_url: "https://denofdestruction.blogspot.com/2011/02/band-dia-de-los-muertos-ddlm.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qWm-wpCHEZzfTChU3Syz7CT_yu36CqqpajyopXP8dqQbusg7lnFEyAc-aD7vIsp5Cl9jhVAj6WjQ1qa7KtzwH38m7Wy9R3lO1DM2Heex3IlhqkzosBqxFlZnpCplj_Rl8avOjNLgPjU/s72-c/normal_DIA_DE_LOS_MUERTOS.jpg"
+thumbnail: "/images/normal_DIA_DE_LOS_MUERTOS.jpg"
 ---
 
 No, I'm not talking about these guys.

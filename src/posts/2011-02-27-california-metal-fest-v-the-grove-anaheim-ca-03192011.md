@@ -29,7 +29,7 @@ tags:
   - The Grove
 slug: "california-metal-fest-v-the-grove-anaheim-ca-03192011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/california-metal-fest-v-grove-anaheim.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghKNHueCaRrFFhCPzDgbzF0Z9b9YYowQIHoZ8eXKMFQ-IVLDpwgbKFGD3kRMTXEbjeiWvG7Gs_6nEmIBGBLzraBLUyOQh6Jws82TNLWF8TkXmRudpYfz29jGvek0zjnKqgW9_xt01kNKc/s72-c/california-metalfest-v-2011.jpg"
+thumbnail: "/images/california-metalfest-v-2011.jpg"
 ---
 
 ![Image](/images/california-metalfest-v-2011.jpg)

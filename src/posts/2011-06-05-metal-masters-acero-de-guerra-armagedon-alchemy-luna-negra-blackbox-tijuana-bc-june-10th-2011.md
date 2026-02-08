@@ -27,7 +27,7 @@ tags:
   - Power Metal
 slug: "metal-masters-acero-de-guerra-armagedon-alchemy-luna-negra-blackbox-tijuana-bc-june-10th-2011"
 original_url: "https://denofdestruction.blogspot.com/2011/06/metal-masters-acero-de-guerra-armagedon.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc-lTTpl_mhpWA44FfXHyc1lnkZ0zQo2T_sJbXb_4rwgXMXITZpMDxPse75Bj-v7ZC_9X8BDOnyCE1IcFQp2ghM6qlsy3rlMuxcrdTEBQi_ixRv753aAIwySc-Al-pFpA3xSQQWUphEpg/s72-c/258702_112327822188398_100002335414505_115625_2830642_o.jpg"
+thumbnail: "/images/258702_112327822188398_100002335414505_115625_2.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc-lTTpl_mhpWA44FfXHyc1lnkZ0zQo2T_sJbXb_4rwgXMXITZpMDxPse75Bj-v7ZC_9X8BDOnyCE1IcFQp2ghM6qlsy3rlMuxcrdTEBQi_ixRv753aAIwySc-Al-pFpA3xSQQWUphEpg/s640/258702_112327822188398_100002335414505_115625_2830642_o.jpg})
+![Image](/images/258702_112327822188398_100002335414505_115625_2.jpg)

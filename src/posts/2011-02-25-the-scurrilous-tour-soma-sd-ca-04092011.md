@@ -19,7 +19,7 @@ tags:
   - Tesseract
 slug: "the-scurrilous-tour-soma-sd-ca-04092011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/scurrilous-tour-soma-sd-ca-04092011.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2NTzb3o4KhEbkRjw8kqyvnVg17Feweiua0WcU7X6-HSXy-PjciPpYAOWwyKI-m4_HmGiEsaY9LWP_S5h243Kz3NduX8DT7AdwZXo5DRgX0HnwulFP-Bao43jGALqoyG7v9uEYqbfkxwM/s72-c/protest_news.gif"
+thumbnail: "/images/protest_news.gif"
 ---
 
 ![Image](/images/protest_news.gif)

@@ -17,10 +17,10 @@ tags:
   - Warbringer
 slug: "gig-review-warbringer-el-divan-de-alicia"
 original_url: "https://denofdestruction.blogspot.com/2011/05/gig-review-warbringer-el-divan-de.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg6v43F-vRufqn4qfUNL7eGMtbJaPR4mecDhqtfwYChAmEJwNu8Y9d29Yi86GOxQ1unnPFyNHfiSGl_W_zaIHSEwywZXCIDQEuC4yGn7LQ-YPqgwDiiC9vub-ihwQZR3ghw5ZGcAK8xvY/s72-c/230165_211050052250035_100000351260427_679293_4452933_n.jpg"
+thumbnail: "/images/230165_211050052250035_100000351260427_679293_4.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg6v43F-vRufqn4qfUNL7eGMtbJaPR4mecDhqtfwYChAmEJwNu8Y9d29Yi86GOxQ1unnPFyNHfiSGl_W_zaIHSEwywZXCIDQEuC4yGn7LQ-YPqgwDiiC9vub-ihwQZR3ghw5ZGcAK8xvY/s200/230165_211050052250035_100000351260427_679293_4452933_n.jpg})
+![Image](/images/230165_211050052250035_100000351260427_679293_4.jpg)
 
 Warbringer loot!
 It's 11:30PM and I know Warbringer is already playing at El Divan. My relay at work was supposed to arrive at 10 and he was nowhere to be found and I knew I was way late for the show so I pressed the eject button and arrive as fast as I can there.

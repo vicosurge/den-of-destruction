@@ -21,7 +21,7 @@ tags:
   - Tribute
 slug: "rusted-pieces-megadeth-tribute-el-divan-de-alicia-may-20th-2011"
 original_url: "https://denofdestruction.blogspot.com/2011/05/rusted-pieces-megadeth-tribute-el-divan.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5oWCA2ehWF_uDdjQOQGT3qKUTHlzjUFl3_ICtsnpeGmiml6VfIP2VE1fOVjTqCIxr10WwzMuYuY8UXCUCmb7RdtrxtRreE3auX4YyUp4nMFrYvsueB689x5cQqMHMe_jgKRu2x7OeWsI/s72-c/225648_10150172704422887_723287886_6981136_6128242_n.jpg"
+thumbnail: "/images/225648_10150172704422887_723287886_6981136_6128.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5oWCA2ehWF_uDdjQOQGT3qKUTHlzjUFl3_ICtsnpeGmiml6VfIP2VE1fOVjTqCIxr10WwzMuYuY8UXCUCmb7RdtrxtRreE3auX4YyUp4nMFrYvsueB689x5cQqMHMe_jgKRu2x7OeWsI/s1600/225648_10150172704422887_723287886_6981136_6128242_n.jpg})
+![Image](/images/225648_10150172704422887_723287886_6981136_6128.jpg)

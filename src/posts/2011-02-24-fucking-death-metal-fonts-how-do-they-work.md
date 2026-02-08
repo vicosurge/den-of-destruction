@@ -11,7 +11,7 @@ tags:
   - Death Metal
 slug: "fucking-death-metal-fonts-how-do-they-work"
 original_url: "https://denofdestruction.blogspot.com/2011/02/fucking-death-metal-fonts-how-do-they.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXdJrPbKWCNiEIDzePgoy5EOJUPQBbkXpXxhvGdBgckPHQq0yrDFvqtUuzEiNwfl2y_CtcDnwXuDz7dBRIkIEAuF4FLXw8eRRwOWRHR46XATqczkrkWem3IINofbUGQa9nUemnxj6KWUo/s72-c/fuckinglogos.gif"
+thumbnail: "/images/fuckinglogos.gif"
 ---
 
 Ok, seriously this gets a little out of hand sometimes in Death and Black Metal.

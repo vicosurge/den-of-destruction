@@ -19,7 +19,7 @@ tags:
   - SOMA
 slug: "the-hypersleep-dialogues-trek-soma-sd-ca-050611"
 original_url: "https://denofdestruction.blogspot.com/2011/02/hypersleep-dialogues-trek-soma-sd-ca.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX7Dr5JYApMnClCnLDR7kliSvMTTwv6_fJ3EjCTZd0Wt2ODhUnQM2-19I993f9EOXY8ylBHOGD40KUt_DdGObvEmj_oOwSNbbILtt3NrE5jaMxDIYYLQ67YNGLkfb3MYt5SgJzyoVQ9F4/s72-c/BTBAM_hypersleepAdmat2_sm.jpg"
+thumbnail: "/images/BTBAM_hypersleepAdmat2_sm.jpg"
 ---
 
 ![Image](/images/BTBAM_hypersleepAdmat2_sm.jpg)

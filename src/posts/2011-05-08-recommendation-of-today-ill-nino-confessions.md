@@ -13,10 +13,10 @@ tags:
   - Recommendation
 slug: "recommendation-of-today-ill-nino-confessions"
 original_url: "https://denofdestruction.blogspot.com/2011/05/recommendation-of-today-ill-nino.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0FEHO1GNsPL2qAUJIetEDKdIfEXJjFvnqeZ8tmQhyphenhyphen-bloea10P3YxmxfRpv1-AkrNPEBMTU1cLE8ZlkrBdRv6QXMQI0a4fkpGr33ihK-d_ln3Lc3-Osq0uHlqtLxg_DPjuzytg8A9EI4/s72-c/Illni%25C3%25B1oconfession.jpg"
+thumbnail: "/images/Illniñoconfession.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0FEHO1GNsPL2qAUJIetEDKdIfEXJjFvnqeZ8tmQhyphenhyphen-bloea10P3YxmxfRpv1-AkrNPEBMTU1cLE8ZlkrBdRv6QXMQI0a4fkpGr33ihK-d_ln3Lc3-Osq0uHlqtLxg_DPjuzytg8A9EI4/s1600/Illni%25C3%25B1oconfession.jpg})
+![Image](/images/Illniñoconfession.jpg)
 
 Track listing
  No. Title Length 

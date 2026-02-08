@@ -35,7 +35,7 @@ tags:
   - Warcry
 slug: "tributos-box-underground-tijuana-bc-mexico"
 original_url: "https://denofdestruction.blogspot.com/2012/03/tributos-box-underground-tijuana-bc.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6OOKKAOF_ny49qkmNrADJoDnnZHAfJmx3mcj9AdR0KPK-8ZztPEasxs6FgRUFRIDJriarpohNMtgwVa1_j1Het8JS0PYC2lBEF8lCce3C-mSrvdmyxI327Oc9piw7HdT1rmSzyK0dScI/s72-c/428658_284671974938836_100001881063926_661361_1573888508_n.jpg"
+thumbnail: "/images/428658_284671974938836_100001881063926_661361_1.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6OOKKAOF_ny49qkmNrADJoDnnZHAfJmx3mcj9AdR0KPK-8ZztPEasxs6FgRUFRIDJriarpohNMtgwVa1_j1Het8JS0PYC2lBEF8lCce3C-mSrvdmyxI327Oc9piw7HdT1rmSzyK0dScI/s640/428658_284671974938836_100001881063926_661361_1573888508_n.jpg})
+![Image](/images/428658_284671974938836_100001881063926_661361_1.jpg)

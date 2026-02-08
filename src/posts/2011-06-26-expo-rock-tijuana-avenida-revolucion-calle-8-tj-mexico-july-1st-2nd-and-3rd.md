@@ -55,7 +55,7 @@ tags:
   - Turbulence
 slug: "expo-rock-tijuana-avenida-revolucion-calle-8-tj-mexico-july-1st-2nd-and-3rd"
 original_url: "https://denofdestruction.blogspot.com/2011/06/expo-rock-tijuana-avenida-revolucion.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGW-Pd0j_dRazlBnYWsVksoTB2olOVZqxXrIMmOzRa2tOgAtzy06R6aFkQqGV3REypjXvqFcNthjSEpA2NTGxKquvotEa7K3_G-Eo9SlcuHp86F5QTzGWYPWwEbTmfeHM5nqJSPEldBXk/s72-c/251179_191256254257303_100001187897080_461595_7636017_n.jpg"
+thumbnail: "/images/251179_191256254257303_100001187897080_461595_7.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGW-Pd0j_dRazlBnYWsVksoTB2olOVZqxXrIMmOzRa2tOgAtzy06R6aFkQqGV3REypjXvqFcNthjSEpA2NTGxKquvotEa7K3_G-Eo9SlcuHp86F5QTzGWYPWwEbTmfeHM5nqJSPEldBXk/s640/251179_191256254257303_100001187897080_461595_7636017_n.jpg})
+![Image](/images/251179_191256254257303_100001187897080_461595_7.jpg)

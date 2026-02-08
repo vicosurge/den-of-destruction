@@ -17,7 +17,7 @@ tags:
   - Unleash The Archers
 slug: "recommendations-disgrace-mx-unleash-the-archers-ca"
 original_url: "https://denofdestruction.blogspot.com/2011/02/recommendations-disgrace-mx-unleash.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwA253K8ZlTdfvCKYQzR94u-3JDObku5Tj5BUmhmIB7z-M3DAXjwgey-LnHpLPDHOloYz0TAyFZ1oECV4pxr68UnOAXPezYXesXJm4sLPZBaDZWyW1mA81blZi2C8KgjDdxl3wguzlnKQ/s72-c/Attack_to_the_Helms_deep.jpg"
+thumbnail: "/images/Attack_to_the_Helms_deep.jpg"
 ---
 
 Ok, two recommendations for today.

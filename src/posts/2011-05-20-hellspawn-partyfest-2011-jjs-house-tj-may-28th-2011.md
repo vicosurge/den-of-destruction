@@ -27,7 +27,7 @@ tags:
   - Voltage
 slug: "hellspawn-partyfest-2011-jjs-house-tj-may-28th-2011"
 original_url: "https://denofdestruction.blogspot.com/2011/05/hellspawn-partyfest-2011-jjs-house-tj.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1o5YwNcQdRB0uQdWdmh1U-bYYyu5RNS6q_yw24qZPzSIp2mTclBDmwCtSFeWLEW11_y1h69PntEbuhJS_FTzWKdAGsVmnmpNWFZ-feP4PjBBhG_8VKnFssn2nXcgIYinZN4OFiRQm13w/s72-c/228787_203835882986541_100000803913736_485313_7210859_n.jpg"
+thumbnail: "/images/228787_203835882986541_100000803913736_485313_7.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1o5YwNcQdRB0uQdWdmh1U-bYYyu5RNS6q_yw24qZPzSIp2mTclBDmwCtSFeWLEW11_y1h69PntEbuhJS_FTzWKdAGsVmnmpNWFZ-feP4PjBBhG_8VKnFssn2nXcgIYinZN4OFiRQm13w/s1600/228787_203835882986541_100000803913736_485313_7210859_n.jpg})
+![Image](/images/228787_203835882986541_100000803913736_485313_7.jpg)

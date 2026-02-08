@@ -19,7 +19,7 @@ tags:
   - Tijuana
 slug: "bonded-by-blood-el-divan-de-alicia-tijuana-july-8th-2011"
 original_url: "https://denofdestruction.blogspot.com/2011/05/bonded-by-blood-el-divan-de-alicia.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic97jsWZTsrCjxU2i1y6Sv-ni7xCfG50RBU7HtAT-SvzyjFubYTeD0Mc7XfADav6P1FHCsqo5C4xYNV0nXXJ3CFUBTNfFpxT6BRnEXSAxG8NbweslzOFX4GVQZcXeWd2Zs2IFTAR37bb8/s72-c/230499_221694687856832_100000489062870_941282_4949231_n.jpg"
+thumbnail: "/images/230499_221694687856832_100000489062870_941282_4.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic97jsWZTsrCjxU2i1y6Sv-ni7xCfG50RBU7HtAT-SvzyjFubYTeD0Mc7XfADav6P1FHCsqo5C4xYNV0nXXJ3CFUBTNfFpxT6BRnEXSAxG8NbweslzOFX4GVQZcXeWd2Zs2IFTAR37bb8/s1600/230499_221694687856832_100000489062870_941282_4949231_n.jpg})
+![Image](/images/230499_221694687856832_100000489062870_941282_4.jpg)

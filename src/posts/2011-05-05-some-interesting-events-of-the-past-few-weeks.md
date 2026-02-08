@@ -17,7 +17,7 @@ tags:
   - Tijuana
 slug: "some-interesting-events-of-the-past-few-weeks"
 original_url: "https://denofdestruction.blogspot.com/2011/05/some-interesting-events-of-past-few.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLnt7vtK-I4V5mZgCaA3MnxcrdFb32hG4TA6Q1wv4u70bgbUmS9VplgjyE9OUMtgKBvW91Gt-c3Q5Mq80QK4MCCUAGMlbLyDJwk-FXX3glORhtKDcIhxKXq6DKuuJOYV022553L7jOZOI/s72-c/129178094444472351.jpg"
+thumbnail: "/images/129178094444472351.jpg"
 ---
 
 First off we had that infamous Slayer tribute that we had been waiting for so long now and I'll tell you a little secret about it...

@@ -21,7 +21,7 @@ tags:
   - San Diego
 slug: "pyrate-punx-presents-ruby-room-sd-ca-03032011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/pyrate-punx-presents-ruby-room-sd-ca.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOOEjdixU1GQ3JvafeLC7z8ZMPT9MDBUNMANmvvXsDXmp9Q9wa1nB_6nNyYm3nhFw-2E-nglNca0yNTOJh1gS_nQJfS9-IN1wVrQKhavn2vTzJpuC178U2pM0c7IFMvxsgPCh5OLO1BQ/s72-c/187933_149419481785539_4002988_n.jpg"
+thumbnail: "/images/187933_149419481785539_4002988_n.jpg"
 ---
 
 ![Image](/images/187933_149419481785539_4002988_n.jpg)

@@ -17,7 +17,7 @@ tags:
   - Tijuana
 slug: "tribute-mago-de-oz-saratoga-y-angeles-del-infierno-tj-arte-y-rock-cafe-tj-duh-mx-03032011"
 original_url: "https://denofdestruction.blogspot.com/2011/02/tribute-mago-de-oz-saratoga-y-angeles.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxck7vty_0Orr7BuexV3JzaIeYMPaggxIEbVLOm2unwM2jEYK7Qabtff3T0cazZOswWqOCkfkDAI5ej-Qj8n8MfbqyrI7hqH6yG-N6lZnLDdFrpuV2QsFgfoDJk_LUoUrFGQZOO27JgI/s72-c/182241_10150098861338149_717633148_6511536_7797083_n.jpg"
+thumbnail: "/images/182241_10150098861338149_717633148_6511536_7797.jpg"
 ---
 
 ![Image](/images/182241_10150098861338149_717633148_6511536_7797.jpg)

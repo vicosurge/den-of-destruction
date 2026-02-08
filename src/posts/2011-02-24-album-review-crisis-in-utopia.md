@@ -11,7 +11,7 @@ tags:
   - Holy Grail
 slug: "album-review-crisis-in-utopia"
 original_url: "https://denofdestruction.blogspot.com/2011/02/album-review-crisis-in-utopia.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijjKY_3kO9KBFQisBPFipQJ7-6RcGrUUIDoTNg43DqatAAHQMN-C1bKGs2CMeq1-H2hrZrsxi_NVaWcAjPeA0wY_5Fett6a3SS5vqxKdHzU4zQY_6TxNHVh3KRqqiGVoc1TaY4yRTtg-E/s72-c/Holy-Grail_Crisis-In-Utopia_Debut.jpg"
+thumbnail: "/images/Holy-Grail_Crisis-In-Utopia_Debut.jpg"
 ---
 
 THIS, THIS, THIS, THIS, THIS!

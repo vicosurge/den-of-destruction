@@ -23,7 +23,7 @@ tags:
   - Ultimate Sin
 slug: "powerslaves-iron-maiden-tribute-box-underground-tijuana-bc-mexico-abril-14-2012"
 original_url: "https://denofdestruction.blogspot.com/2012/03/powerslaves-iron-maiden-tribute-box.html"
-thumbnail: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpUNZc0fumZoe7TiRzpqr1Bgn0WBaJzlgeKN7PrlKtcY9U2O3HLJAf5zrHw0gOOkmlBRMQ9LS1nKXDRBKbpIvsOXT5j_S-3iiFsIiPs6VueFm6VoA__gCCVbzLsqY1HqafSD2SlmeuMaU/s72-c/429285_10150677816543711_521993710_9174370_1026038489_n.jpg"
+thumbnail: "/images/429285_10150677816543711_521993710_9174370_1026.jpg"
 ---
 
-![Image]({https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpUNZc0fumZoe7TiRzpqr1Bgn0WBaJzlgeKN7PrlKtcY9U2O3HLJAf5zrHw0gOOkmlBRMQ9LS1nKXDRBKbpIvsOXT5j_S-3iiFsIiPs6VueFm6VoA__gCCVbzLsqY1HqafSD2SlmeuMaU/s640/429285_10150677816543711_521993710_9174370_1026038489_n.jpg})
+![Image](/images/429285_10150677816543711_521993710_9174370_1026.jpg)
